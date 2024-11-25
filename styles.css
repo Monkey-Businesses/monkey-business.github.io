@@ -6,3 +6,11 @@ h1        {
 }
 
 
+p.Welcome_Sign {
+
+
+text-align: center;
+color: black;
+font-weight: 500;
+font-size: 50px;
+}
