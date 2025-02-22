@@ -43,3 +43,11 @@ li a {
   text-decoration: none;
   font-size: 20px;
 }
+
+div.news {
+    font-family: "Lexend";
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
