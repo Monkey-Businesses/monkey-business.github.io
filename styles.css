@@ -1,9 +1,8 @@
 body{
   background-color:aliceblue;
-  border-style: solid;
-  border-color: darkgrey;
-  border-radius: 8px;
+  border-style: none;
 }
+
 div.welcome {
     text-align: center;
     color: black;
