@@ -51,3 +51,10 @@ div.news {
     text-align: center;
     font-weight: bold;
 }
+div.products{
+  font-family: "Lexend";
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
