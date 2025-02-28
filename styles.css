@@ -1,3 +1,8 @@
+body{
+  background-color:aliceblue;
+  border-style: groove;
+  border-color: darkgrey;
+}
 div.welcome {
     text-align: center;
     color: black;
@@ -16,9 +21,6 @@ div.about {
     font-family: 'Lexend';
     font-size: 18px;
 }
-
-body {margin:0;}
-
 ul {
   list-style-type: none;
   margin: 0;
