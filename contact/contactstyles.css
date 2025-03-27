@@ -1,3 +1,9 @@
+body{
+  background-color:aliceblue;
+  border-style: solid;
+  border-color: darkgrey;
+  border-radius: 8px;
+}
 .contact_title {
     font-family: 'Lexend';
     font-size: 18px;
